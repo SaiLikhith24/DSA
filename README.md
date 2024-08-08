@@ -11,6 +11,7 @@
 | [0064-minimum-path-sum](https://github.com/SaiLikhith24/DSA/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiLikhith24/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0300-longest-increasing-subsequence](https://github.com/SaiLikhith24/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [1036-rotting-oranges](https://github.com/SaiLikhith24/DSA/tree/master/1036-rotting-oranges) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SaiLikhith24/DSA/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -52,4 +53,9 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/SaiLikhith24/DSA/tree/master/0064-minimum-path-sum) |
+| [1036-rotting-oranges](https://github.com/SaiLikhith24/DSA/tree/master/1036-rotting-oranges) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/SaiLikhith24/DSA/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
